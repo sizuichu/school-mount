@@ -1,0 +1,26 @@
+<template name="tmp_data" >
+ 
+   <view class="content">
+    <!-- 头像 -->
+    <view class="author-date"> 
+      <image src="{{item.header_url}}" class="author"></image>
+      <text class="date">{{item.date}}{{idx}}</text>
+    </view>
+    <!-- 标题内容 -->
+     <text class="title">{{item.title}}</text>
+     <image class="image" src="{{item.image_url}}"></image>
+     <text class="article-content">{{item.content}}</text>
+    <view >
+ 
+     <image class="article-images" src="../../images/icon/chat.png"></image>
+     <text class="article-text">66</text>
+ 
+     <image class="article-images" src="../../images/icon/view.png"></image>
+     <text class="article-text">88</text>
+ 
+    </view>
+ 
+ 
+  </view>
+ 
+</template>

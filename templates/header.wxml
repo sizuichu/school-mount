@@ -1,0 +1,15 @@
+<!--/*
+ * 
+ * organization: 刘小海 1625621257
+ * 开源协议：MIT
+ *
+ */-->
+
+<template name="tempHeader">
+  
+      <image src="http://tu.weask.club/18-2-21/51976456.jpg" class="slide-image" width="355" height="250"/>
+  
+
+
+</template>
+<!-- header end -->
